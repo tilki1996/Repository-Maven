@@ -15,7 +15,7 @@ public class App
         System.out.println( "Hallo ich übernehme abnun die Arbeit!" );
         WebDriver driver = new ChromeDriver();
 
-        driver.get("https://selenium.dev");
+        driver.get("https://the-internet.herokuapp.com/");
 
       
     }
